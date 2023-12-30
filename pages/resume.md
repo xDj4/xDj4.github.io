@@ -53,3 +53,7 @@ As an accomplished professional with extensive experience in operations manageme
 ## Skills
 
 Product Design & Development, Manufacturing & Compliance, Troubleshooting, Schematics, Computer-Aided Design, Contracting, Project Management, Business Software, Systems & Processes, Written & Verbal Communication Skills, Pragmatic Logical & Objective Problem Solving, Eagerness for Challenge & Knowledge, Leadership and Governance, Conflict Resolution, Community Engagement & Communication, Budgets, Financial Management & Reporting, Legality Code & Covenant Compliance, Urban Planning, Utility Management
+
+---
+
+[back](../)

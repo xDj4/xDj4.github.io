@@ -2,11 +2,13 @@
 
 ---
 
-[keypad](keypad/index.md)
+[Keypad](keypad/index.md)
 
-[screens](screens/index.md)
+[Screens](screens/index.md)
 
-[render](render/index.md)
+[Frames](frames/index.md)
+
+[Render](render/index.md)
 
 ---
 
